@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Musab
 
-<!--
-**musabmohamed429242-sketch/musabmohamed429242-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning i am studying computer information system at kenya methodist university.
+- I'm interested in  web development.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: musabmohamed429242@gmail.com
+- LinkedIn: [your LinkedIn profile link]
